@@ -191,7 +191,7 @@ body {
   color: #999;
 }
 
-/* green header */
+/* header */
 header {
   background: #2a81b2;
   border-color: #47abe8;
@@ -219,5 +219,5 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #fff;
 }
