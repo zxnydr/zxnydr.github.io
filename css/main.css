@@ -41,7 +41,6 @@ header {
 #logo {
   text-align: center;
   margin: 0;
-  font-size: 1.3 em;
 }
 
 h1 {
@@ -221,4 +220,8 @@ nav a, nav a:visited {
 /* selected nav link */
 nav a.selected, nav a:hover {
   color: #47abe8
+}
+
+p{
+  color: #fff;
 }
