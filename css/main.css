@@ -32,13 +32,14 @@ HEADING
 *********************************/
 
 header {
-    background: #111 url(http://216.243.142.234//assets/css/../img/pattern-dark.png);
-    color: #fff;
-    margin-bottom: 6.25em;
-    padding: 2% 0 2% 0;
-    text-align: center;
-    border-top: 5px solid #111;
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
 }
+
+
+
 
 #logo {
   text-align: center;
@@ -195,8 +196,10 @@ body {
 
 /* header */
 header {
-  background: #166;
-  border-color: #47abe8;
+  
+  border-color: #111;
+  background: #111 url(http://216.243.142.234//assets/css/../img/pattern-dark.png);
+  color: #fff;
 }
 
 /* nav background on mobile */
