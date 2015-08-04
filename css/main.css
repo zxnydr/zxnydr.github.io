@@ -47,7 +47,7 @@ header {
 }
 
 h1 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower', sans-serif;
   margin: 15 px 0;
   font-size: 2em;
   font-weight: normal;
@@ -58,7 +58,7 @@ h2 {
   font-size: 1em;
   margin: -5px 0 0;
   font-weight: normal;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Indie Flower', sans-serif;
 }
 
 
@@ -190,7 +190,7 @@ COLORS
 
 /* site body */
 body {
-  background-color: grey;/* you can comment here too */
+  background-color: gray;/* you can comment here too */
   color: #999;
 }
 
@@ -209,7 +209,7 @@ nav {
 
 /* logo text */
 h1, h2 {
-  color: #fff;
+  color: #2a81b2;
 }
 
 /* links */
