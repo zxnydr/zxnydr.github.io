@@ -108,8 +108,8 @@ footer {
 }
 
 .social-icon: {
-  width: 20px;
-  height: 20px;
+  width: 75px;
+  height: 75px;
   margin: 0 5px;
 }
 
@@ -175,10 +175,6 @@ PAGE:CONTACT
   margin: 0 0 10px;
 }
 
-.contact-info li.phone a {
-  background-image: url('../img/phone.png');
-}
-
 .contact-info li.mail a {
   background-image: url('../img/mail.png');
 }
@@ -195,7 +191,7 @@ COLORS
 
 /* site body */
 body {
-  background-color: gray;/* you can comment here too */
+  background-image: url('../img/grid_03.jpg');
   color: #999;
 }
 
